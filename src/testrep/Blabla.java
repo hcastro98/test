@@ -1,1 +1,2 @@
-zdfasdfsdf
+package testrep;
+public class Blabla{}
