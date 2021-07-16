@@ -1,3 +1,5 @@
 package boo;
 
-public class Bar{}
+public class Bar{
+//dsdsds	
+}
