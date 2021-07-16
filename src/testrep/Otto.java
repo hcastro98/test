@@ -1,3 +1,5 @@
 package testrep;
 
-public class Otto{}
+public class Otto{
+/****/
+}
