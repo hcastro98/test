@@ -1,2 +1,4 @@
 package testrep;
-public class Blabla{}
+public class Blabla{
+//**
+}
