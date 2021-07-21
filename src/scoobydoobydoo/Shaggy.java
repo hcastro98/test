@@ -1,4 +1,4 @@
-package testrep;
+package scoobydoobydoo;
 
 public class Shaggy {
 }
