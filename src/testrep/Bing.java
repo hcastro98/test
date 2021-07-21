@@ -1,3 +1,7 @@
 package testrep;
 
-public class Bing{}
+public class Bing
+{
+    public Bing() {
+    }
+}
